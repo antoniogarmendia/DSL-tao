@@ -42,7 +42,8 @@
             class="org.mondo.editor.ui.wizards.NewMondoProjectWizard"
             icon="icons/mondo.gif"
             id="org.mondo.editor.ui.wizards.MondoProjectWizard"
-            name="DSL-tao Project">
+            name="DSL-tao Project"
+            project="true">
       </wizard>
       <wizard
             category="org.mondo.editor.ui.MondoCategory"
